@@ -1,0 +1,11 @@
+first create a .vscode folder 
+
+than create a settings.json file it 
+
+paste this below 
+
+    {
+        "files.exclude": {
+            "**/*.exe": true
+        }
+    }
