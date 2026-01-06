@@ -6,19 +6,20 @@ click New global snippets file
 
 paste 
 
-    {
-        "#": {
-            "prefix": "#",
-            "body": [
-                "#include <stdio.h>",
-                "",
-                "int main() {",
-                " \n "
-                "    // Your code here",
-                " \n "
-                "    return 0;",
-                "}"
-            ],
-            "description": "Basic C program structure"
-        }
-    }
+
+		{
+			"z": {
+				"prefix": "z",
+				"body": [
+					"#include <stdio.h>",
+					"",
+					"int main() {",
+					"\n",
+					"    // Your code here",
+					"\n",
+					"    return 0;",
+					"}"
+				],
+				"description": "Basic C program structure"
+			}
+		}

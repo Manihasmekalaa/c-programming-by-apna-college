@@ -12,7 +12,6 @@
 /*
 For running a C program in terminal:
 
-Without any hesitation 
 Download the exetension code runner 
 Then open the c file you want to run 
 Then press ctrl+alt+n 
