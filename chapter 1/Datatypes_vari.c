@@ -12,6 +12,7 @@ float pi = 1.314; // all decimal digits
     3. character con's----- 'a', 'b', '#', '&'
 */
 
-// 32 keywords which can't be used as variable Name's
+// 32 keywords which can't be used as variable Name's bhanuun erri puku
+
 return 0;
 }
